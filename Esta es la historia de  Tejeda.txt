@@ -18,4 +18,4 @@ En verdad esta es una linea  extra.
 
 Hoy es  un developer en full stack y mobile.
 mañana hablaremos sobre su vida laboral
-esto es para  probar el push
+esto es para  probar el push    
